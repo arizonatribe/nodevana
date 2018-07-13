@@ -4,7 +4,7 @@ A NodeJs Alpine image with bash and git as the only packages. This works well as
 
 # Dependencies
 
-Docker and Docker-Compose are required to run this application, which are packaged together for Mac and Windows users into a homebrew package and [Docker Toolbox](https://www.docker.com/products/docker-toolbox) (respectively), for Linux users, follow the instructions for installing  the [Docker Engine](https://docs.docker.com/engine/installation/) and [Docker Compose](https://docs.docker.com/compose/install/).
+Docker and Docker-Compose are required to run this application, which are packaged together [for Mac](https://www.docker.com/docker-mac) and [Windows](https://www.docker.com/docker-windows) users. For Linux users (unless [on Ubuntu](https://www.docker.com/docker-ubuntu)), follow the instructions for installing  the [Docker Engine](https://docs.docker.com/engine/installation/) and [Docker Compose](https://docs.docker.com/compose/install/).
 
 # Building the Docker Image
 
